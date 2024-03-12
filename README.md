@@ -1,6 +1,6 @@
 # base_ml_algo: 
 
-Developing version of the implementation of basic machine learning algorithms taught/discussed in class, AIMS AMMI program (visit https://aimsammi.org/)
+Developing version of the implementation of basic machine learning algorithms taught/discussed in class at the AIMS AMMI program (visit https://aimsammi.org/)
 
 
 ### Short details
