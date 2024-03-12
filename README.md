@@ -5,7 +5,7 @@ Developing version of the implementation of basic machine learning algorithms ta
 
 ### Short details
 
-This repository contains assignmemts, tests, quizes, and projects, that we did/will be doing  the AIMS AMMI program. For the actual version, no much is done althought some a few works are already uploaded, notaby the implementation:
+This repository contains assignmemts, tests, quizes, and projects, that we did/will be doing at  the AIMS AMMI program. For the actual version, no much is done althought some a few works are already uploaded, notaby the implementation:
 * gradient descent method and its variants: Mini-Bacth GD  and Stochastic GD.
 * logistic regression, implementaion from scratch. The details about the dataset used will be given later.
 * linear regression, likewise, details for the the datasets will be discussed later.
