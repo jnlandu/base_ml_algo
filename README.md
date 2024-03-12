@@ -13,10 +13,11 @@ Most of those codes are written in python and use several packages libraies such
 
 ### Changes from now to March 31, 2024
 We aim to:
-* improve the code just upload, broaden it and include more features that could not appear.
-* improve also the readability of the codes
-* add related (short courses/short summary) of each concepts and/or techniques used
+* improve the code just uploaded, broaden it and include more features that have not appeared so far.
+* improve also the readability of the codes.
+* add related (short courses/short summary) of each concepts and/or techniques that have been used so far.
 * have the same codes but written in `R` (or `Julia`).
+* add collaboration, where needed.
 
 ### Datasets
 For  most of the present codes, we use the dataset provided by an appropriate library/package. For instance for the logistic implementation, the wide-known dataset `iris` from  `sklearn` was used to test our codes.
