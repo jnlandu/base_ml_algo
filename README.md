@@ -12,7 +12,7 @@ This repository contains assignmemts, tests, quizes, and projects, that we did/w
 Most of those codes are written in python and use several packages libraies such as `numpy`, `pandas`,`pytorch`, etc.
 
 ### Changes from now to March 31, 2024
-We aim to:
+We aim at to:
 * improve the code just uploaded, broaden it and include more features that have not appeared so far.
 * improve also the readability of the codes.
 * add related (short courses/short summary) of each concepts and/or techniques that have been used so far.
